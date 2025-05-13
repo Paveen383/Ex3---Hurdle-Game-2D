@@ -84,8 +84,6 @@ public class Score : MonoBehaviour
     }
 }
 ```
-
-
 ## OUTPUT:
 ![alt text](<Screenshot 2025-05-06 115323.png>)
 ## RESULT:
